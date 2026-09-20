@@ -1,0 +1,118 @@
+{
+  "app": "forever-young-hotel",
+  "publishedAt": "2026-09-09T00:00:00.000Z",
+  "data": {
+    "settings": {
+      "brandName": "Forever Young",
+      "brandSuffix": "HOTEL · RESTAURANTE · BAR",
+      "logoImage": "img/logo.jpg",
+      "heroImage": "img/restaurante.jpg",
+      "heroEyebrow": "Bem-vindo ao Forever Young",
+      "heroTitle": "Seu momento a dois",
+      "heroHighlight": "começa aqui",
+      "heroSubtitle": "Hotel, Restaurante e Bar no coração de Malhampsene — hospitalidade moçambicana, segurança 24 horas e um café da manhã completo para começar bem o dia.",
+      "heroChips": "Segurança 24h · Estacionamento · Café da manhã incluso",
+      "phoneDisplay": "+258 84 416 0174",
+      "whatsapp": "258844160174",
+      "email": "geral@foreveryoung.com",
+      "address": "Av. Samora Machel, Bairro de Malhampsene, Paragem 120 — Matola, Moçambique",
+      "facebookUrl": "https://www.fb.com/foreveryoung",
+      "instagramUrl": "https://www.instagram.com/foreveryounghotel",
+      "tiktokUrl": "",
+      "youtubeUrl": "",
+      "tripadvisorUrl": "",
+      "website": "www.foreveryoung.com",
+      "hours": "Recepção e segurança 24 horas",
+      "currency": "MT",
+      "mapEmbed": "https://www.openstreetmap.org/export/embed.html?bbox=32.4287,-25.8984,32.4407,-25.8864&layer=mapnik&marker=-25.8924064,32.4347087",
+      "aboutTitle": "Um espaço feito para momentos a dois",
+      "aboutText1": "O Forever Young nasceu para oferecer um ambiente super confortável para casais, com quartos climatizados, segurança 24 horas e uma equipa que recebe como família.",
+      "aboutText2": "No nosso restaurante e bar, o sabor de Moçambique está em conta: grelhados no ponto, peixe fresco do Índico, pratos da terra e um bar cheio de escolhas.",
+      "aboutBadgeValue": "24h",
+      "aboutBadgeLabel": "de segurança",
+      "aboutImage1": "img/quarto.jpg",
+      "aboutImage2": "img/restaurante.jpg",
+      "aboutFeatures": [
+        "Localização de fácil acesso na Paragem 120",
+        "Restaurante acolhedor e bar com bebidas variadas",
+        "Café da manhã completo incluso na estadia",
+        "Segurança 24 horas e estacionamento próprio"
+      ],
+      "stats": [
+        { "value": "3", "label": "modalidades de quarto" },
+        { "value": "24h", "label": "segurança e recepção" },
+        { "value": "100%", "label": "café da manhã incluso" }
+      ],
+      "footerText": "Hotel, Restaurante e Bar — hospitalidade moçambicana na Av. Samora Machel, Malhampsene, Paragem 120, Matola. Kanimambo por nos escolher!"
+    },
+    "heroSlides": [
+      { "id": "h1", "image": "img/quarto.jpg", "title": "Seu momento a dois", "highlight": "começa aqui", "subtitle": "" },
+      { "id": "h2", "image": "img/restaurante.jpg", "title": "Sabor de Moçambique", "highlight": "à sua mesa", "subtitle": "Grelhados no ponto, peixe fresco do Índico e um bar cheio de escolhas." },
+      { "id": "h3", "image": "img/grelhados.jpg", "title": "Venha fazer o seu pedido", "highlight": "grelhado do dia", "subtitle": "" },
+      { "id": "h4", "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1600&q=80", "title": "Conforto que se sente", "highlight": "em cada detalhe", "subtitle": "" }
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Quarto Casal Standard",
+        "price": 2500,
+        "size": "18 m²",
+        "guests": "2 hóspedes",
+        "view": "Vista interior",
+        "image": "img/quarto.jpg",
+        "features": ["Cama de casal confortável", "Banheiro privativo", "TV e ar-condicionado"]
+      },
+      {
+        "id": "r2",
+        "name": "Quarto Casal Deluxe",
+        "price": 3500,
+        "size": "24 m²",
+        "guests": "2 hóspedes",
+        "view": "Vista para a cidade",
+        "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=900&q=80",
+        "features": ["Cama queen e poltrona de apoio", "TV de tela plana e ar-condicionado", "Café da manhã completo incluído"]
+      },
+      {
+        "id": "r3",
+        "name": "Suíte Momento a Dois",
+        "price": 5000,
+        "size": "32 m²",
+        "guests": "2 hóspedes",
+        "view": "Vista privilegiada",
+        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=900&q=80",
+        "features": ["Espaço amplo com área de estar", "Decoração especial para casais", "Detalhes de boas-vindas"]
+      }
+    ],
+    "amenities": [
+      { "id": "a1", "icon": "shield", "title": "Segurança 24h", "desc": "Vigilância e recepção a qualquer hora, para você relaxar." },
+      { "id": "a2", "icon": "car", "title": "Estacionamento", "desc": "Estacionamento próprio para hóspedes e visitantes." },
+      { "id": "a3", "icon": "coffee", "title": "Café da manhã completo", "desc": "Incluso na estadia, servido no nosso restaurante." },
+      { "id": "a4", "icon": "utensils", "title": "Restaurante acolhedor", "desc": "Grelhados no ponto, peixe fresco do Índico e pratos da terra — venha fazer o seu pedido." },
+      { "id": "a5", "icon": "wine", "title": "Bar variado", "desc": "Bar com diversidades de bebidas para brindar o momento." },
+      { "id": "a6", "icon": "snow", "title": "Ar-condicionado e TV", "desc": "Quartos climatizados e com televisão para o seu conforto." },
+      { "id": "a7", "icon": "bed", "title": "Espaço para casais", "desc": "Ambiente reservado e confortável para um momento a dois." },
+      { "id": "a8", "icon": "bell", "title": "Atendimento dedicado", "desc": "Equipa atenciosa do check-in ao check-out." }
+    ],
+    "gallery": [
+      { "id": "g1", "image": "img/quarto.jpg", "caption": "Quarto confortável" },
+      { "id": "g2", "image": "img/restaurante.jpg", "caption": "Nosso restaurante" },
+      { "id": "g3", "image": "img/grelhados.jpg", "caption": "Grelhados do Forever Young" },
+      { "id": "g4", "image": "img/flyer-hotel.jpg", "caption": "Forever Young Hotel" },
+      { "id": "g5", "image": "img/cortesias.jpg", "caption": "Cortesias para hóspedes" },
+      { "id": "g6", "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80", "caption": "Para descontrair" }
+    ],
+    "testimonials": [
+      { "id": "t1", "text": "Ambiente super aconchegante e um atendimento de primeira. O grelhado do restaurante é imperdível — voltaremos com certeza!", "name": "Amílcar & Sónia", "origin": "Matola" },
+      { "id": "t2", "text": "Quarto limpo, ar-condicionado potente e um café da manhã que já vale a estadia. Segurança atenciosa do início ao fim.", "name": "Rosita M.", "origin": "Boane" },
+      { "id": "t3", "text": "Marcação rápida pelo WhatsApp e tudo pronto quando chegámos. O melhor espaço da Paragem 120 para um momento a dois. Kanimambo!", "name": "Carlos J.", "origin": "Maputo" }
+    ],
+    "payments": [
+      { "id": "pay1", "name": "M-Pesa", "icon": "phone", "color": "red", "details": "Vodacom M-Pesa para o +258 84 416 0174 (Forever Young). Envie o comprovativo pelo WhatsApp e confirmamos logo." },
+      { "id": "pay2", "name": "e-Mola", "icon": "wallet", "color": "orange", "details": "Movitel e-Mola: transfira para o número do hotel e envie o comprovativo pelo WhatsApp." },
+      { "id": "pay3", "name": "mKesh", "icon": "wallet", "color": "blue", "details": "Tmcel mKesh: transfira para o número do hotel e envie o comprovativo pelo WhatsApp." },
+      { "id": "pay4", "name": "Transferência bancária", "icon": "bank", "color": "ochre", "details": "BCI, BIM ou Standard Bank — o IBAN é enviado pelo WhatsApp. Envie o comprovativo para garantir a reserva." },
+      { "id": "pay5", "name": "Visa / Mastercard", "icon": "card", "color": "navy", "details": "Pagamento por TPA no check-in ou, para pagamento à distância, peça o link pelo WhatsApp." },
+      { "id": "pay6", "name": "PayPal", "icon": "globe", "color": "wine", "details": "Para pagamentos internacionais enviamos o link do PayPal pelo WhatsApp." }
+    ]
+  }
+}
